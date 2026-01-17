@@ -107,8 +107,3 @@ Se o teste falhar com timeout, execute em modo headed:
 pytest -v -s test_uol_playwright.py --headed
 ```
 
-Repositório: https://github.com/Kohijow/PactoSolucoes-Entrega
-
-Enviar para:
-- rh@pactosolucoes.com.br
-- tiagosantana@pactosolucoes.com.br
