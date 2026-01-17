@@ -107,11 +107,6 @@ Se o teste falhar com timeout, execute em modo headed:
 pytest -v -s test_uol_playwright.py --headed
 ```
 
-### Cypress não encontra arquivos
-Certifique-se de que os arquivos estão em `cypress/e2e/`
-
-## Entrega
-
 Repositório: https://github.com/Kohijow/PactoSolucoes-Entrega
 
 Enviar para:
